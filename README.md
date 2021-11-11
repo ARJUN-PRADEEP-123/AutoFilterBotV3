@@ -43,7 +43,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`Config.py`](Config.py)
 
 #### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `API_ID_1234`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
