@@ -49,7 +49,7 @@
             "required": false
         },
         "START_MSG": {
-            "description": "Welcome message for start command",
+            "description": "WELCOME COMMAND",
             "value": "**Hello,I'm Wraya**",
             "required": false
         },
