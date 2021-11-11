@@ -5,10 +5,10 @@ from os import environ
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = environ.get('SESSION', 'LuciferMoringstar_Robot')
+SESSION = environ.get('SESSION', 'WRAYA')
 API_ID = int(environ['API_ID'])
 API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
+BOT_TOKEN = environ['BOT_TOKEN_BOT_FATHER']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -35,7 +35,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Auto Filter V3**
+**HI, i AM WRAYA**
 
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
 """
