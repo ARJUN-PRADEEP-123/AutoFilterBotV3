@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/Arjunpradeep993/AutoFilterBotV3",
     "repository": "https://github.com/Arjunpradeep993/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
@@ -50,7 +50,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
+            "value": "**Hello,I'm Wraya**",
             "required": false
         },
         "USE_CAPTION_FILTER": {
