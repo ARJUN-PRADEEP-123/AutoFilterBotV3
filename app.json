@@ -18,7 +18,7 @@
     "website": "https://github.com/Arjunpradeep993/AutoFilterBotV3",
     "repository": "https://github.com/Arjunpradeep993/AutoFilterBotV3",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN11": {
             "description": "Your bot token.",
             "value": ""
         },
